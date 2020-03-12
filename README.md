@@ -1,2 +1,2 @@
-# codeyer-issues
+# codezyer-issues
 Codeyzer issue repository
